@@ -8,8 +8,8 @@ class Inimigo extends obj{
     }
 }
 
-class text{ 
+class text{
     des_text(){
-        
+        //codigo para iniciar texto
     }
 }
